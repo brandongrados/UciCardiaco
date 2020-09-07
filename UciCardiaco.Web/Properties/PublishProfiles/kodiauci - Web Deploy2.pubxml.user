@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAKR4Y53dV00C0qOHNRX/36gAAAAACAAAAAAAQZgAAAAEAACAAAAD2So08Q91ew0YcKm7SUUhesmH6N2LFAYMnyEhSzE8gRgAAAAAOgAAAAAIAACAAAACaafbzWMxL55QKmFhzHU8BV0812cC5hy2F8b+3ZTvI1IAAAAB5HsReTeN6Ov1tMEfg/6k8aHlbqu7AgvbgOvaJoXAZcGrAZZcp/6XuEhW2L9Gq90cXRyyZvrMRgoOGghiNVFQHrlGRQu38c6Sht96j/htiXLKMENTa/2tTKdRGXfxBl03PSpoyiCIe0v95A++SWxl2f+rXhsnKHWKq3Bs/XjqbxkAAAAB/xDt7y89ToW8bZzzqrxz23Zz4yyfJTLTMPjmUcSHjWqG65TfTE8r36/b9OuBBCHXLOfAKPGMbNrALPeG/ytK3</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="Conexion">
+      <Value>Data Source=tcp:kodia-server.database.windows.net,1433%3bInitial Catalog=bdkodia%3bUser Id=Administrador%40kodia-server%3bPassword=Autonoma2020</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="UciCardiaco.Datos.DbContextUciCardiaco">
+      <Value>Data Source=tcp:kodia-server.database.windows.net,1433%3bInitial Catalog=bdkodia%3bUser Id=Administrador%40kodia-server%3bPassword=Autonoma2020</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

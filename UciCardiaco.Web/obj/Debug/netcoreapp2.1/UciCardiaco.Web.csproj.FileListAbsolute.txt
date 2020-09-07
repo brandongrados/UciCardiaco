@@ -1,0 +1,69 @@
+C:\Users\Brandon\source\repos\UciCardiaco\UciCardiaco.Web\obj\Debug\netcoreapp2.1\UciCardiaco.Web.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\UciCardiaco\UciCardiaco.Web\obj\Debug\netcoreapp2.1\UciCardiaco.Web.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\UciCardiaco\UciCardiaco.Web\obj\Debug\netcoreapp2.1\UciCardiaco.Web.RazorAssemblyInfo.cache
+C:\Users\Brandon\source\repos\UciCardiaco\UciCardiaco.Web\obj\Debug\netcoreapp2.1\UciCardiaco.Web.RazorAssemblyInfo.cs
+C:\Users\Brandon\source\repos\UciCardiaco\UciCardiaco.Web\obj\Debug\netcoreapp2.1\UciCardiaco.Web.AssemblyInfoInputs.cache
+C:\Users\Brandon\source\repos\UciCardiaco\UciCardiaco.Web\obj\Debug\netcoreapp2.1\UciCardiaco.Web.AssemblyInfo.cs
+C:\Users\Brandon\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\UciCardiaco.Web.deps.json
+C:\Users\Brandon\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\UciCardiaco.Web.runtimeconfig.json
+C:\Users\Brandon\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\UciCardiaco.Web.runtimeconfig.dev.json
+C:\Users\Brandon\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\UciCardiaco.Web.dll
+C:\Users\Brandon\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\UciCardiaco.Web.pdb
+C:\Users\Brandon\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\UciCardiaco.Datos.dll
+C:\Users\Brandon\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\UciCardiaco.Entidad.dll
+C:\Users\Brandon\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\UciCardiaco.Datos.pdb
+C:\Users\Brandon\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\UciCardiaco.Entidad.pdb
+C:\Users\Brandon\source\repos\UciCardiaco\UciCardiaco.Web\obj\Debug\netcoreapp2.1\UciCardiaco.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Brandon\source\repos\UciCardiaco\UciCardiaco.Web\obj\Debug\netcoreapp2.1\UciCardiaco.Web.csproj.CopyComplete
+C:\Users\Brandon\source\repos\UciCardiaco\UciCardiaco.Web\obj\Debug\netcoreapp2.1\UciCardiaco.Web.dll
+C:\Users\Brandon\source\repos\UciCardiaco\UciCardiaco.Web\obj\Debug\netcoreapp2.1\UciCardiaco.Web.pdb
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\UciCardiaco.Web.deps.json
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\UciCardiaco.Web.runtimeconfig.json
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\UciCardiaco.Web.runtimeconfig.dev.json
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\UciCardiaco.Web.dll
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\UciCardiaco.Web.pdb
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\UciCardiaco.Datos.dll
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\UciCardiaco.Entidad.dll
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\UciCardiaco.Datos.pdb
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\UciCardiaco.Entidad.pdb
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\obj\Debug\netcoreapp2.1\UciCardiaco.Web.csprojAssemblyReference.cache
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\obj\Debug\netcoreapp2.1\UciCardiaco.Web.AssemblyInfoInputs.cache
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\obj\Debug\netcoreapp2.1\UciCardiaco.Web.AssemblyInfo.cs
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\obj\Debug\netcoreapp2.1\UciCardiaco.Web.RazorAssemblyInfo.cache
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\obj\Debug\netcoreapp2.1\UciCardiaco.Web.RazorAssemblyInfo.cs
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\obj\Debug\netcoreapp2.1\UciCardiaco.Web.RazorTargetAssemblyInfo.cache
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\obj\Debug\netcoreapp2.1\UciCardiaco.Web.csproj.CopyComplete
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\obj\Debug\netcoreapp2.1\UciCardiaco.Web.dll
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\obj\Debug\netcoreapp2.1\UciCardiaco.Web.pdb
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\obj\Debug\netcoreapp2.1\UciCardiaco.Web.genruntimeconfig.cache
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\obj\Debug\netcoreapp2.1\UciCardiaco.Web.csproj.CoreCompileInputs.cache
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\UciCardiaco.Web.Views.dll
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\UciCardiaco.Web.Views.pdb
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\obj\Debug\netcoreapp2.1\UciCardiaco.Web.TagHelpers.input.cache
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\obj\Debug\netcoreapp2.1\UciCardiaco.Web.TagHelpers.output.cache
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\obj\Debug\netcoreapp2.1\UciCardiaco.Web.RazorCoreGenerate.cache
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\obj\Debug\netcoreapp2.1\UciCardiaco.Web.RazorTargetAssemblyInfo.cs
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\obj\Debug\netcoreapp2.1\UciCardiaco.Web.Views.pdb
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\Properties\ServiceDependencies\kodia - Web Deploy\profile.arm.json
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\Properties\ServiceDependencies\kodiauci - Web Deploy\profile.arm.json
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.json
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.kodiauci - Web Deploy1.json
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\Properties\ServiceDependencies\kodiauci - Web Deploy1\mssql1.arm.json
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\Properties\ServiceDependencies\kodiauci - Web Deploy1\profile.arm.json
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\Properties\ServiceDependencies\kodiauci - Web Deploy2\profile.arm.json
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\Properties\ServiceDependencies\kodiauci - Web Deploy3\profile.arm.json
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.kodiauci - Web Deploy3.json
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\Properties\ServiceDependencies\kodiauci - Web Deploy3\mssql1.arm.json
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.local.json
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\Properties\ServiceDependencies\local\mssql1.arm.json
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\Properties\ServiceDependencies\kodiauci - Web Deploy4\profile.arm.json
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.kodiauci - Web Deploy4.json
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\Properties\ServiceDependencies\kodiauci - Web Deploy4\mssql1.arm.json
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Web\bin\Debug\netcoreapp2.1\Properties\ServiceDependencies\kodiauci - Web Deploy4\secrets1.arm.json

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAKR4Y53dV00C0qOHNRX/36gAAAAACAAAAAAAQZgAAAAEAACAAAAAvM55mpga+PFb1FU+ugGjfbHBmYElKveFNdTkY32LD7gAAAAAOgAAAAAIAACAAAABtkAWapB4WPT8aLqy4HTUU37M8P4EfZXkycQRsMVBfDoAAAAD4+N5bWLngqymFpAQZBagLSOmNY0C1qLfyZILeNW7eohCcPiLTrPzX0qWFyN6iskIglObBq8VVO+zdJJXrzXTdKNxb4Dp+g97WbumAo9RNGcWNERGkK/it9Kr3SwN5d7M6fg+K+/ljoRJMVmx1heHDQ5KyepLVUH2SC1Yg6FkWGkAAAAAfxJy7AKBHRBY+QxV7hEmXN+4a66r1p5+DWo4hlFyKnhUpa7V9xyRmAUtOrfekJYRYppUig27ohQLmC2fAnbvB</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="Conexion">
+      <Value>Server=tcp:kodia-server.database.windows.net,1433%3bInitial Catalog=bdkodia%3bPersist Security Info=False%3bUser ID=Administrador%3bPassword=Autonoma2020%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="UciCardiaco.Datos.DbContextUciCardiaco">
+      <Value>Server=tcp:kodia-server.database.windows.net,1433%3bInitial Catalog=bdkodia%3bPersist Security Info=False%3bUser ID=Administrador%3bPassword=Autonoma2020%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

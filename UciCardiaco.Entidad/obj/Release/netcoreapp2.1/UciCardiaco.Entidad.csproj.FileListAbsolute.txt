@@ -1,0 +1,9 @@
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Entidad\bin\Release\netcoreapp2.1\UciCardiaco.Entidad.deps.json
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Entidad\bin\Release\netcoreapp2.1\UciCardiaco.Entidad.dll
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Entidad\bin\Release\netcoreapp2.1\UciCardiaco.Entidad.pdb
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Entidad\obj\Release\netcoreapp2.1\UciCardiaco.Entidad.csprojAssemblyReference.cache
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Entidad\obj\Release\netcoreapp2.1\UciCardiaco.Entidad.AssemblyInfoInputs.cache
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Entidad\obj\Release\netcoreapp2.1\UciCardiaco.Entidad.AssemblyInfo.cs
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Entidad\obj\Release\netcoreapp2.1\UciCardiaco.Entidad.csproj.CoreCompileInputs.cache
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Entidad\obj\Release\netcoreapp2.1\UciCardiaco.Entidad.dll
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.Entidad\obj\Release\netcoreapp2.1\UciCardiaco.Entidad.pdb

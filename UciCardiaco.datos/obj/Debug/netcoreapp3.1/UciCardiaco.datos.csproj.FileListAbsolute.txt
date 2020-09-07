@@ -1,0 +1,15 @@
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.datos\bin\Debug\netcoreapp3.1\UciCardiaco.datos.deps.json
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.datos\bin\Debug\netcoreapp3.1\UciCardiaco.datos.dll
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.datos\bin\Debug\netcoreapp3.1\UciCardiaco.datos.pdb
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.datos\obj\Debug\netcoreapp3.1\UciCardiaco.datos.csprojAssemblyReference.cache
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.datos\obj\Debug\netcoreapp3.1\UciCardiaco.datos.AssemblyInfoInputs.cache
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.datos\obj\Debug\netcoreapp3.1\UciCardiaco.datos.AssemblyInfo.cs
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.datos\obj\Debug\netcoreapp3.1\UciCardiaco.datos.dll
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.datos\obj\Debug\netcoreapp3.1\UciCardiaco.datos.pdb
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.datos\bin\Debug\netcoreapp3.1\UciCardiaco.Datos.runtimeconfig.json
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.datos\bin\Debug\netcoreapp3.1\UciCardiaco.Datos.runtimeconfig.dev.json
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.datos\bin\Debug\netcoreapp3.1\UciCardiaco.Entidad.dll
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.datos\bin\Debug\netcoreapp3.1\UciCardiaco.Entidad.pdb
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.datos\obj\Debug\netcoreapp3.1\UciCardiaco.Datos.csproj.CoreCompileInputs.cache
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.datos\obj\Debug\netcoreapp3.1\UciCardiaco.Datos.csproj.CopyComplete
+C:\Users\bjavi\source\repos\UciCardiaco\UciCardiaco.datos\obj\Debug\netcoreapp3.1\UciCardiaco.Datos.genruntimeconfig.cache
